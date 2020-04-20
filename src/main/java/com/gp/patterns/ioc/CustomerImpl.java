@@ -18,6 +18,7 @@ public class CustomerImpl implements Customer {
 	public CustomerImpl(CreditCard creditCard) {
 		// TODO Auto-generated constructor stub
 		this.creditCard=creditCard;
+		System.out.println("test 04192020 1056pm");
 	}
 	
 	
